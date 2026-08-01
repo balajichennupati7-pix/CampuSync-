@@ -1,1 +1,1 @@
-# CampuSync-
+# CampuSync
